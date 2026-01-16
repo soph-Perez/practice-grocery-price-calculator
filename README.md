@@ -1,9 +1,6 @@
-# Assignment Description
-
-**Title:** Simple Grocery Price Calculator
+# Simple Grocery Price Calculator
 
 ## Objective
-
 The purpose of this assignment is to practice:
 
 * Writing modular Python programs with functions
@@ -97,9 +94,8 @@ Your program **must**:
    * Ask for quantity
 4. Calculate total cost
 5. Display a receipt with all details
-
-## Submission Requirements
-
-* Submit **one Python file**
 * Must run without modification
 * No external files needed
+
+## How it's made:
+Developed with Python
